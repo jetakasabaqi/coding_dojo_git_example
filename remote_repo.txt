@@ -1,0 +1,6 @@
+Opened a new repository into my git hub account
+Used the test folder from the recent assignments which had a index.html, style.css and a txt file
+added the remote repository with git remote add origin -remote.repo.github.link-
+pushed all my files to the remote repo with git push --set-upstream origin master
+added this file inside the test folder
+add the files to git, commit it and push the changes to the remote repo
