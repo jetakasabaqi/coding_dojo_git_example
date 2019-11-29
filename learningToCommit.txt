@@ -1,0 +1,16 @@
+cd Desktop
+mkdir test
+cd test
+touch index.html
+touch styles.css
+git init
+git add.
+git commit -m 'first commit'
+git status
+git add .
+git commit -m 'updated html'
+git status 
+git add .
+git commit -m 'update css'
+git log
+git revert -commit hash number-
